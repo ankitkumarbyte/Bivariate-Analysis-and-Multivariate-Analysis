@@ -7,6 +7,7 @@ This repository contains a Jupyter Notebook focused on **bivariate and multivari
 ## 📁 Project Structure
 
 ├── Bivariate_Analysis_and_Multivariate_Analysis.ipynb
+
 ├── README.md
 ---
 
